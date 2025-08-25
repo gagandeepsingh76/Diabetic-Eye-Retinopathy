@@ -1,7 +1,7 @@
 # 🧠 Diabetic Eye Retinopathy Detection
 This repository contains multiple deep learning experiments for Diabetic Eye Retinopathy (DR) classification, using state-of-the-art Convolutional Neural Network (CNN) architectures. The project explores different models and optimizers to evaluate their effectiveness in detecting DR.
 
-##📌 Implemented Models
+## 📌 Implemented Models
 The following Jupyter Notebooks are included:
 - **inceptionv3.ipynb** – InceptionV3 baseline model
 - **inceptionv3__.ipynb** – InceptionV3 (variation)
