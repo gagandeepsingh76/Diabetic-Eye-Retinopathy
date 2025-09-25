@@ -75,6 +75,15 @@ Diabetic-Eye-Retinopathy
 
 ---
 
+📈 Sample Results
+
+<p align="center">
+  <img width="567" height="490" alt="image" src="https://github.com/user-attachments/assets/273f3958-9c07-4aed-afbb-efdaf9132db9" />
+</p>
+
+
+---
+
 ## 🚀 Key Highlights
 
 - Multiple CNN architectures compared for DR detection  
