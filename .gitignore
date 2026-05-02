@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.env
+
+# Local training outputs
+plots/
+*.h5
+*.keras
+!models/*.keras
+!models/.gitkeep
